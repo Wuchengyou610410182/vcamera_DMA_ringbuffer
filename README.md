@@ -13,7 +13,7 @@ Implemented on top of the Linux V4L2 framework with videobuf2 buffer management.
 
 ## Project Overview
 
-`vcam-dma-ring` is a Linux kernel module that simulates a virtual camera device using contiguous DMA memory and a ring buffer to manage video buffers.  
+vcam-dma-ring is a Linux kernel module that simulates a virtual camera device using contiguous DMA memory and a ring buffer to manage video buffers.  
 It is designed for multimedia driver learning, virtual device testing, and video data simulation.
 
 ---
